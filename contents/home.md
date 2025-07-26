@@ -1,20 +1,11 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+I'm currently pursuing a Bachelor's degree in Data Science and Big Data Technology at the University of Electronic Science and Technology of China, School of Computer Science and Engineering.
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+#### Email 
+`zjw5428c@gmail.com` 
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Education 
+**University of Electronic Science and Technology of China**, Bachelor of Data Science and Big Data Technology (2023 – Present) 
+• GPA: 3.95/4.0 
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### Research Interests 
+Deep Learning, Large Language Models (LLMs), AI Agents, Vision-Language Models (VLMs).
