@@ -5,7 +5,7 @@ I'm currently pursuing a Bachelor's degree in Data Science and Big Data Technolo
 
 #### Education 
 **University of Electronic Science and Technology of China**, Bachelor of Data Science and Big Data Technology (2023 – Present) 
-• GPA: 3.95/4.0 
+- GPA: 3.95/4.0 
 
 #### Research Interests 
 Deep Learning, Large Language Models (LLMs), AI Agents, Vision-Language Models (VLMs).
